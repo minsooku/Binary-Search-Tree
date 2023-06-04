@@ -1,7 +1,7 @@
 # Binary-Search-Tree
 
 # Required
-pbst package \n
-Java
-ArrayList utility
-Collection utility
+pbst package \
+Java \
+ArrayList utility \
+Collection utility \
